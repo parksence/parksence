@@ -12,7 +12,7 @@
 ## 🌳 Experience
 
 - 2023.3 ~ current (주)코덱스브리지 - BE Developer
-- 2021.2 ~ 2023.7  (주)아카넷 - BE Developer
+- 2021.2 ~ 2023.7  (주)아카넷 - BE Developer
 
 <br>
 
