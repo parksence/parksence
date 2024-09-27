@@ -5,7 +5,7 @@
 
 - 🌲 Blog 블로그: [🔗 방문하기](https://parksence.tistory.com/)
 - 📫 E-Mail 보내기 : parksence95@gmail.com
-- 🤾🏻‍♂️ Hobby 취미: 풋살, 데스크테리어, 골프, 볼링, 게임, 풋살
+- 🤾🏻‍♂️ Hobby 취미: 풋살, 데스크테리어, 골프, 볼링, 게임
 
 <br>
 
