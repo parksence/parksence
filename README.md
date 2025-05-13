@@ -10,7 +10,7 @@
 <br>
 
 ## 🌳 Experience
-- 2024.8 ~ ing    오케스트로(주) - FS Developer
+- 2024.8 ~ ing    오케스트로(주) - FS Developer & DevOps Engineer
 - 2023.7 ~ 2024.3 (주)코덱스브리지 - FS Developer
 - 2021.2 ~ 2023.7 (주)아카넷 - BE Developer
 
