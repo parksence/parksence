@@ -12,11 +12,11 @@
 ## 🌳 Experience
 오케스트로(주) (2024.08 ~ 현재)
 Full Stack Developer & DevOps Engineer
-- Kubernetes, Keycloak, Vault, Harbor, Jenkins, MariaDB, Redis, RabbitMQ 등 인프라 구축 및 운영
+- SpringBoot, Java, Vue.js, Kubernetes 등 인프라 구축 및 운영
  
 (주)코덱스브리지 (2023.07 ~ 2024.03)
 Full Stack Developer
-- Java, Vue.js, 관리자 웹, 로우코드 플랫폼, 협업(기획/디자인/QA), UI/UX 개선
+- SpringBoot, Java, Thymeleaf, 관리자 웹, 로우코드 플랫폼, 협업(기획/디자인/QA), UI/UX 개선
 
 (주)아카넷 (2021.02 ~ 2023.07)
 Back-end Developer (공통팀)
